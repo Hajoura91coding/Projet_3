@@ -5,6 +5,8 @@ Anticipez les besoins en consommation de bâtiments
 ###### Nom : Blohorn
 ###### Prénom : Agar
 
+## Contexte et objectifs de l'étude
+
 **Client** : Ville de Seattle
 
 **Objectifs** : atteindre son objectif de ville neutre en émissions de carbone en 2050
