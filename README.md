@@ -19,7 +19,7 @@ Anticipez les besoins en consommation de bâtiments
 - Réaliser une courte analyse exploratoire
 - Tester différents modèles de prédiction afin de répondre au mieux à la problématique
 
-**Points de vigilences** :
+**Points de vigilances** :
 - Relevés de consommation annuels (attention aux fuite de données), possibilités de déduire des variables plus simples (nature et proportions des sources d'énergies utiles)
 - Traitement des variables pour trouver de nouvelles informations (normalisation, log...)
 - Mise en place d'une évaluation rigoureuse et optimisation des hyperparamètres et choix du modèle de machine learning avec la validation croisée
